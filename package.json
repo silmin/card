@@ -1,6 +1,6 @@
 {
 	"name": "silmin",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "silmin's card",
 	"license": "ISC",
 	"repository": "silmin/card",
@@ -16,7 +16,7 @@
 		"test": "xo && ava"
 	},
 	"files": [
-		"source"
+		"src"
 	],
 	"keywords": [
 		"cli-app",

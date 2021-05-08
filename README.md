@@ -1,6 +1,8 @@
 # silmin's card
 
+![preview](./img/preview.png)
+
 ## usage
-``` 
-    npx silmin
+```sh
+npx silmin
 ```
